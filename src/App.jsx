@@ -56,10 +56,12 @@ export default function Portfolio() {
           About Me
         </motion.h2>
         <p className="text-slate-300 leading-relaxed text-base sm:text-lg">
-          I specialize in building data-driven systems using Machine Learning
-          and modern web technologies. My focus includes predictive analytics,
-          industrial production forecasting, digital evidence management systems,
-          and structured information architecture.
+          I specialize in designing and developing secure and structured information,
+          systems with a strong emphasis on backend architecture, database management,
+          and access control. I have experience building a web-based digital evidence,
+          management system for documenting cybercrime cases, developing a phishing URL,
+          detection application using machine learning models, and implementing a predictive, analytics system for industrial production data. 
+          My work focuses on system reliability, data security, and analytical accuracy to support effective organizational decision making.
         </p>
       </section>
 
