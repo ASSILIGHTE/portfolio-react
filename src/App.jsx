@@ -42,7 +42,7 @@ export default function Portfolio() {
           transition={{ delay: 0.5, duration: 0.8 }}
           className="text-lg text-slate-300 max-w-2xl"
         >
-          Informatics Engineer | Machine Learning Engineer | Web System Developer
+          Informatics Engineer | Machine Learning  | Web System Developer
         </motion.p>
       </section>
 
